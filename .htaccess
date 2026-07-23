@@ -1,0 +1,3 @@
+DirectoryIndex index.php
+AddType application/x-httpd-php .php
+Options -Indexes 
